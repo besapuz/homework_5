@@ -1,5 +1,5 @@
 import random
-
+#nkdjnd
 morse = {
     "0": "-----",
     "1": ".----",
